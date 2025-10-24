@@ -1,5 +1,6 @@
 # Problem: Concert Tickets (CSES)
 Problem link: https://cses.fi/problemset/task/1091
+
 Given `n` ticket prices and `m` customers, each with a maximum price they are willing to pay, what price does each customer pay? They should be assigned the *highest* possible ticket price that is *still less than or equal to* their maximum price. Once a ticket is sold, it cannot be sold again.
 
 ## Approach
