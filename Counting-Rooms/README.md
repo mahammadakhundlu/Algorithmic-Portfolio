@@ -1,4 +1,5 @@
 # Problem: Counting Rooms (CSES)
+Problem link: https://cses.fi/problemset/task/1192
 
 Given a grid of a building layout (`.` for floor, `#` for wall), this problem asks us to count the total number of distinct rooms. A room is any set of connected floor tiles.
 
