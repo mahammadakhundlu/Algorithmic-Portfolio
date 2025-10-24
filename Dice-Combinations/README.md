@@ -1,4 +1,5 @@
 # Problem: Dice Combinations (CSES)
+Problem link: https://cses.fi/problemset/task/1633
 
 This problem asks for the number of ways to get a sum `n` by rolling a standard 1-6 die. The order of the rolls matters.
 
