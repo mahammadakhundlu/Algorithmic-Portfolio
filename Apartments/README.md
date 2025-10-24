@@ -1,4 +1,5 @@
 # Problem: Apartments (CSES)
+Problem link: https://cses.fi/problemset/task/1084
 
 Given a list of `n` applicants with their desired apartment size and `m` apartments with their actual size, find the maximum number of applicants that can be matched to an apartment. An applicant `i` accepts an apartment `j` if its size is within a range `[a[i]-k, a[i]+k]`.
 
